@@ -25,9 +25,9 @@ Id  Name                Grades
 120 Francesca da Polenta    84 -->
 
 # Snack 1
---Creiamo un Array di Oggetti chiamato "Invitati"
---Creiamo un ciclo Foreach che prenderà ogni elemento dell'oggetto invitati e stamperà fuori la lista dei membri con nome, numero posto e tipologia di tavolo.
-
+--Creiamo un Array chiamato "Invitati" con all'interno nomi Invitati
+--Creiamo un ciclo map con all'interno un oggetto che assegnerà il segnaposto e il 
+tavolo
 # Snack 2
 --Creiamo un oggetto studenti
 --Stampiamo tutti i nomi degli studenti in Maiuscolo
