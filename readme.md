@@ -24,6 +24,16 @@ Id  Name                Grades
 102 Piero della Francesca   50
 120 Francesca da Polenta    84 -->
 
+<!-- SNACK 3
+Creare un array di oggetti:
+Ogni oggetto descriverà una bici da corsa con le seguenti proprietà: nome e peso.
+Stampare in console la bici con peso minore utilizzando destructuring e template literal -->
+
+<!-- SNACK 4
+Creare un array di oggetti di squadre di calcio. Ogni squadra avrà diverse proprietà: nome, punti fatti, falli subiti.
+Nome sarà l’unica proprietà da compilare, le altre saranno tutte settate a 0.
+Generare numeri random al posto degli 0 nelle proprietà: Punti fatti e falli subiti.
+Infine usando la destrutturazione creiamo un nuovo array i cui elementi contengono solo nomi e falli subiti e stampiamo tutto in console. -->
 # Snack 1
 --Creiamo un Array chiamato "Invitati" con all'interno nomi Invitati
 --Creiamo un ciclo map con all'interno un oggetto che assegnerà il segnaposto e il 
@@ -33,3 +43,10 @@ tavolo
 --Stampiamo tutti i nomi degli studenti in Maiuscolo
 --Stampiamo tutti gli studenti con voto superiore a 70
 --Stampiamo tutti gli studenti con voto superriore a 70 e id superiore a 120
+# Snack 3
+--Creiamo un Array di oggetti delle Bici da corsa
+--Usiamo il metodo filter per filtrare le bici
+--Stampiamole usando il template literals 
+# Snack 4
+--Creiamo un array di oggetti delle squadre di serie A
+--Creiamo un ciclo ForEach che prenderà tutti gli elementi dell'array
